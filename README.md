@@ -1,2 +1,4 @@
 # KCD_TH
- Kingdom Come: Deliverance Thai
+โปรเจกต์แปลไทย Kingdom Come: Deliverance
+
+โดย https://www.facebook.com/notreadynotgive/
